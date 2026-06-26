@@ -21,17 +21,8 @@
          HAVILAB
 ```
 
-- 🔭 Building **[vla.cpp](https://github.com/VinRobotics/vla.cpp)**: Vision-Language-Action models on local hardware, in the spirit of `llama.cpp`.
+- 🔭 Building **[`vla.cpp`](https://github.com/VinRobotics/vla.cpp)**: Vision-Language-Action models on local hardware, in the spirit of [`llama.cpp`](https://github.com/ggml-org/llama.cpp).
 - ⚡ I optimize deep neural networks for AI accelerators: **VLM · VLA · LLM**.
-- 🧪 Research roots in multimodal learning & affective computing (6 peer-reviewed papers: ABAW, REACT, KERC, A-VB).
-- 🌱 Philosophy: *simple lines of code that are effective*, à la Andrej Karpathy.
+- 🧪 Research roots in multimodal learning & affective computing.
+- 🌱 Philosophy: *simple but effective lines of code*.
 - 🏠 Tinkering in my home lab, **[Havilab](https://havi.fit)** (Happy Vicuna Laboratory).
-
-### 🛠️ Toolbox
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
