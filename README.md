@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/havi.fit-4B2E0F?style=for-the-badge&logo=safari&logoColor=F4C15D)](https://havi.fit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanhnd185/)
-[![Scholar](https://img.shields.io/badge/Scholar-5C7A5E?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=Dang-Khanh+Nguyen)
+[![Scholar](https://img.shields.io/badge/Scholar-5C7A5E?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5AdBep8AAAAJ)
 
 </div>
 
@@ -35,9 +35,3 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<div align="center">
-
-![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnd61-vr&show_icons=true&hide_border=true&title_color=4B2E0F&icon_color=5C7A5E&text_color=6e5536&bg_color=FFF2E1)
-
-</div>
