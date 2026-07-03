@@ -21,8 +21,8 @@
          HAVILAB
 ```
 
-- 🔭 Building **[`vla.cpp`](https://github.com/VinRobotics/vla.cpp)**: Vision-Language-Action models on local hardware, in the spirit of [`llama.cpp`](https://github.com/ggml-org/llama.cpp).
+- 🔭 **[`vla.cpp`](https://github.com/VinRobotics/vla.cpp)**: Vision-Language-Action models on local hardware, in the spirit of [`llama.cpp`](https://github.com/ggml-org/llama.cpp).
+- 🌱 **[ReadItDown](https://havi.fit/readitdown)** native markdown viewer and editor in Linux/Windows/macOS.
 - ⚡ I optimize deep neural networks for AI accelerators: **VLM · VLA · LLM**.
-- 🧪 Research roots in multimodal learning & affective computing.
-- 🌱 Philosophy: *simple but effective lines of code*.
-- 🏠 Tinkering in my home lab, **[Havilab](https://havi.fit)** (Happy Vicuna Laboratory).
+- 🧪 Research roots in efficient VLAs.
+- 🏠 Tinkering in my home lab, **[Havilab](https://havi.fit)**.
